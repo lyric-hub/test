@@ -1,0 +1,4 @@
+[core]
+    remote = cyril
+['remote "cyril"']
+    url = /tmp/dvcstore
